@@ -34,7 +34,7 @@ Building on such works, this project address the following scenarios in distant 
 
 The following diagram visualizes (Updates as project progresses) a conceptual setup for the project.
 <p align="center">
-  <img width=820 height=560 src="https://user-images.githubusercontent.com/18501201/114848807-60aab480-9ddf-11eb-9aea-d16610e572c1.png" />
+  <img width=860 height=560 src="https://user-images.githubusercontent.com/18501201/114848807-60aab480-9ddf-11eb-9aea-d16610e572c1.png" />
 </p>
 
 If you are interested in the project topic, wish to collaborate or wish to test this technology in your class as a teacher, please contact [Bibeg](b.h.limbu@tudelft.nl) for more information or ideas/collaboration.
