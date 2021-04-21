@@ -38,7 +38,7 @@ The following diagram visualizes (Updates as project progresses) a conceptual se
 </p>
 
 
-If you are interested in the project topic, wish to collaborate or wish to test this technology in your class as a teacher, please contact [Bibeg](b.h.limbu@tudelft.nl) for more information or ideas/collaboration.
+If you are interested in the project topic, wish to collaborate or wish to test this technology in your class as a teacher, please contact Bibeg (b.h.limbu@tudelft.nl) for more information or ideas/collaboration.
 If you wish be updated about the happeings in the project, you can join our [teams group](https://bit.ly/3tglZFn) or follow our [blog posts](https://www.educationandlearning.nl/research/research-blog) 
 
 <p align="left">
