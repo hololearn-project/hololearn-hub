@@ -44,3 +44,7 @@ If you wish be updated about the happeings in the project, you can join our [tea
 <p align="left">
   <img width=360 height=200 src="https://user-images.githubusercontent.com/18501201/114861992-4a582500-9dee-11eb-8ab4-d57446f26be9.png" />
 </p>
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/18501201/122885197-26114b00-d33f-11eb-94f7-17efb3ee2408.jpg" />
+</p>
